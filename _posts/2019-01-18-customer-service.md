@@ -5,6 +5,7 @@ author: jane
 categories:
 - Jekyll
 - tutorial
+- Cool stuff
 image: assets/images/11.jpg
 
 ---
